@@ -1,3 +1,17 @@
-# Untracked files:
-    [...]
-    #   wct 
+# Ignore one specific binary file
+wct
+
+# Ignore all .bin files
+*.bin
+
+# Ignore all compiled binaries
+*.exe
+*.dll
+*.so
+*.o
+
+# Ignore a file inside a folder
+build/output.bin
+
+# Ignore an entire folder
+dist/
