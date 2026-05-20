@@ -1,3 +1,3 @@
 all:
-	gcc -o wct wct.c
+	gcc -o wct.o wct.c
 

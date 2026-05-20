@@ -1,2 +1,2 @@
 all:
-	gcc catt.c -o catt
+	gcc catt.c -o catt.o
